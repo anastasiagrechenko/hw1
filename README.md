@@ -2,7 +2,7 @@
 Homework
 
 ## About myself
-Let me introduce myself. My name is Anastasia. I am a student of one of the greatest universities in Moscow **_Higher School of Economics_**.[ This is an official veb-site](https://www.hse.ru/en/). I study ` foreign languages and intercultural communication`. Actually studying there is a very **hard** but **exciting** and **interesting** process.**Hard** because we have a very busy schedule for this semester. And **interesting** because there are many new subjects I have never studied before.
+Let me introduce myself. My name is Anastasia. I am a student of one of the greatest universities in  **_Higher School of Economics_**.[ This is an official veb-site](https://www.hse.ru/en/). I study ` foreign languages and intercultural communication`. Actually studying there is a very **hard** but **exciting** and **interesting** process.**Hard** because we have a very busy schedule for this semester. And **interesting** because there are many new subjects I have never studied before.
 
 > **In this Table I would like to show you some of the most captivating subjects we have**.
 
