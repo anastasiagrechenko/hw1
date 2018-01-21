@@ -25,7 +25,8 @@ Also i can add that I am a very _versatile person_ . I have a lot of different h
 
 Moreover I am trying to become more sociable person, so I am registered in many social networks. For example, [this is a link to my vk](https://vk.com/id230624950) .
 Finally, I would like to show you my picture (if you have never seen me before). My photo:
-![all text](https://vk.com/photo230624950_423382338 "Myself")
+
+![alt text](https://pp.userapi.com/c636731/v636731950/183f7/016ADCQpAqY.jpg "Myself")
 
 
 
