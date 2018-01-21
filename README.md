@@ -32,7 +32,5 @@ Finally, I would like to show you my picture (if you have never seen me before).
 
 ![alt text](https://pp.userapi.com/c636731/v636731950/183f7/016ADCQpAqY.jpg "Myself")
 
-[![IMAGE ALT TEXT HERE](http://i.ytimg.com/vi/RUYoP4bC9xg/0.jpg)](https://www.youtube.com/watch?v=kCnB05GrUgc)
-
 
 
