@@ -20,7 +20,10 @@ Also i can add that I am a very _versatile person_ . I have a lot of different h
 + reading books and journals
 + watching movies
 + boxing
-+ dancing
++ dancing(for example, this is my favourite tango dance from a movie "Scent of woman"):
+
+[![IMAGE ALT TEXT HERE](http://i.ytimg.com/vi/RUYoP4bC9xg/0.jpg)](https://www.youtube.com/watch?v=kCnB05GrUgc)
+
 + playing with my sister
 + listening to good music
 
